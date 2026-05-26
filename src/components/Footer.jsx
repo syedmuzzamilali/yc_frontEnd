@@ -75,10 +75,9 @@ export default function Footer() {
 
       </div>
 
-      {/* Bottom info */}
       <div className="max-w-7xl mx-auto pt-8 border-t border-white/5 flex flex-col sm:flex-row items-center justify-between text-xs gap-4 text-neutral-500">
         <span>© {new Date().getFullYear()} Youth Care NGO. All rights reserved.</span>
-        <span>Made with care for Hyderabad's youth.</span>
+        <span>Created by <a href="https://syedmuzzamilali.me" target="_blank" rel="noopener noreferrer" className="text-gold hover:underline">Syed Muzzamil Ali</a></span>
       </div>
     </footer>
   )
