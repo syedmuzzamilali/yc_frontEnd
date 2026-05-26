@@ -143,8 +143,8 @@ export default function Home() {
               />
               <div className="absolute inset-0 bg-gradient-to-t from-charcoal-dark via-transparent to-transparent opacity-85" />
               <div className="absolute bottom-6 left-6 right-6 p-4 rounded-xl bg-charcoal-dark/75 backdrop-blur-md border border-white/5 text-left">
-                <p className="text-xs font-serif text-gold italic">"In a warm, non-judgmental atmosphere, we find our strength."</p>
-                <p className="text-[10px] text-neutral-400 mt-1 uppercase tracking-widest">— Youth Circle Gachibowli</p>
+                <p className="text-l font-serif text-gold italic">"In a warm, non-judgmental atmosphere, we find our strength."</p>
+                <p className="text-[10px] text-neutral-400 mt-1 uppercase tracking-widest">— Youth Circle</p>
               </div>
             </div>
           </motion.div>
